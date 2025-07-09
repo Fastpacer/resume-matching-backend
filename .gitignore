@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Data file
+job_assistant.db/
+
+# Data & model folders (if any)
+data/
+models/
